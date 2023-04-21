@@ -57,11 +57,11 @@
   position: relative;
   width: 60px;
   height: 60px;
-  background: #f987d6;
-  background: -webkit-gradient(linear, left top, right top, from(#6a47af), to(#f987d6));
-  background: -moz-linear-gradient(left, #6a47af 0%, #f987d6 100%);
-  background: -o-linear-gradient(left, #6a47af 0%, #f987d6 100%);
-  background: linear-gradient(to right, #6a47af 0%, #f987d6 100%);
+  background: #5bffc0;
+  background: -webkit-gradient(linear, left top, right top, from(#ffcf10), to(#5bffc0));
+  background: -moz-linear-gradient(left, #ffcf10 0%, #5bffc0 100%);
+  background: -o-linear-gradient(left, #ffcf10 0%, #5bffc0 100%);
+  background: linear-gradient(to right, #ffcf10 0%, #5bffc0 100%);
   -moz-border-radius: 50%;
        border-radius: 50%;
   -webkit-animation: whiteShadow 1s infinite;
@@ -94,8 +94,8 @@
 
 @-webkit-keyframes whiteShadow {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
-            box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
+    -webkit-box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
+            box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
     -webkit-transition: -webkit-box-shadow 0.3s ease-in-out;
     transition: -webkit-box-shadow 0.3s ease-in-out;
     -o-transition: box-shadow 0.3s ease-in-out;
@@ -117,8 +117,8 @@
 
 @-moz-keyframes whiteShadow {
   0% {
-    -moz-box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
-         box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
+    -moz-box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
+         box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
     -webkit-transition: -webkit-box-shadow 0.3s ease-in-out;
     transition: -webkit-box-shadow 0.3s ease-in-out;
     -o-transition: box-shadow 0.3s ease-in-out;
@@ -140,9 +140,9 @@
 
 @keyframes whiteShadow {
   0% {
-    -webkit-box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
-       -moz-box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
-            box-shadow: 0 0 0 0 rgba(106, 71, 175, 0.5);
+    -webkit-box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
+       -moz-box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
+            box-shadow: 0 0 0 0 rgba(245, 196, 62, 0.5);
     -webkit-transition: -webkit-box-shadow 0.3s ease-in-out;
     transition: -webkit-box-shadow 0.3s ease-in-out;
     -o-transition: box-shadow 0.3s ease-in-out;
