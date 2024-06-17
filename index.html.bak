@@ -95,18 +95,119 @@
         </div>
       </div>
 
-      <div class="row gx-5">
+      <div class="intro__content">
+        <div class="intro__container">
+          <div class="container-fluid px-4">
+            <div class="row gx-5">
               <div class="col-12">
                 <div class="headline">
                   <div class="headline__icon">
                     <h1>Lee Griffin</h1>
                   <h2>Small-Time Programmer and Artist</h2>
+                  <p class="headline__text"></p>
                   </div>
+                  
                 </div>
               </div>
             </div>
-          
+          </div>
+        </div>
+      </div>
     </div>
+    <!-- Intro Section End -->
+    <!-- Live Preview Links Start
+    
+    <div id="live-preview" class="demo first-section">
+      
+      <div class="demo__links">
+        <div class="demo__header"><h3>Recent Works</h3></div>
+        <div class="container-fluid px-4">
+          <div class="row gx-5">
+            <div class="col-12 col-xl-6">
+              <figure class="links__item">
+                <a class="links__image block-rounded-l" href="https://www.instagram.com/p/CyRz1KcMXOU/" target="_blank">
+                  <div class="image-container block-rounded-m">
+                    <img src="img/demo/screens/1.jpg" alt="[adult swim] bump">
+                  </div>
+                </a>
+                <figcaption class="links__caption">
+                  <p>[adult swim] bump</p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-12 col-xl-6">
+              <figure class="links__item right">
+                <a class="links__image block-rounded-l" href="https://www.instagram.com/p/CwiJG0LgpDb/" target="_blank">
+                  <div class="image-container block-rounded-m">
+                    <img src="img/demo/screens/2.jpg" alt="Haunted House Commission">
+                  </div>
+                </a>
+                <figcaption class="links__caption">
+                  <p>Haunted House Commission</p>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+
+          <div class="row gx-5">
+            <div class="col-12 col-xl-6">
+              <figure class="links__item left">
+                <a class="links__image block-rounded-l" href="https://www.instagram.com/p/CzeTGBdpJtd/" target="_blank">
+                  <div class="image-container block-rounded-m">
+                    <img src="img/demo/screens/3.jpg" alt="MiniMap Commission">
+                  </div>
+                </a>
+                <figcaption class="links__caption">
+                  <p>MiniMap Commission</p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-12 col-xl-6">
+              <figure class="links__item right">
+                <a class="links__image block-rounded-l" href="https://www.instagram.com/p/C0LlLfvuWdG/" target="_blank">
+                  <div class="image-container block-rounded-m">
+                    <img src="img/demo/screens/4.jpg" alt="Chloe (Character Intro)">
+                  </div>
+                </a>
+                <figcaption class="links__caption">
+                  <p>Chloe (Character Intro)</p>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+
+          <div class="row gx-5">
+            <div class="col-12 col-xl-6">
+              <figure class="links__item left">
+                <a class="links__image block-rounded-l" href="https://www.instagram.com/p/CzuhEMHRlJ5/" target="_blank">
+                  <div class="image-container block-rounded-m">
+                    <img src="img/demo/screens/5.jpg" alt="Guardia Forest">
+                  </div>
+                </a>
+                <figcaption class="links__caption">
+                  <p>Guardia Forest</p>
+                </figcaption>
+              </figure>
+            </div>
+            <div class="col-12 col-xl-6">
+              <figure class="links__item right">
+                <a class="links__image block-rounded-l" href="https://www.instagram.com/p/CvVSX2St5P3/" target="_blank">
+                  <div class="image-container block-rounded-m">
+                    <img src="img/demo/screens/6.jpg" alt="Star Bear">
+                  </div>
+                </a>
+                <figcaption class="links__caption">
+                  <p>Star Bear</p>
+                </figcaption>
+              </figure>
+            </div>
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+     Live Preview Links End -->
      <script type="text/javascript" src="https://www.juicer.io/embed/its_lit_lee/embed-code.js"></script>
     <!-- Footer Start -->
     <footer class="footer">
@@ -116,7 +217,7 @@
           <div class="col-12">
             <div class="footer__content">
               <div class="footer__logo">
-                <img src="img/demo/litleelogo256.gif">
+                <img src="img/demo/litleelogo256.gif" alt="Marvio - Coming Soon, Landing Page & Portfolio Template">
               </div>
               <div class="footer__btngroup">
                 <a class="btn btn-l btn-bright link-l" href="https://mailhide.io/e/E7dO85fz" onclick="popup=window.open('https://mailhide.io/e/E7dO85fz','mailhidepopup','width=580,height=635'); return false;">l......@litlee.me>
